@@ -17,9 +17,9 @@
     - Rest API, Node.js applications
 
 ### Languages:
-<img src = https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1582px-CSS3_and_HTML5_logos_and_wordmarks.svg.png alt="HTML/CSS" width="60"/>
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" />
-<img src = "https://ui-avatars.com/api/?name=TOMMY+SHELBY&size=500&background=1f4182&color=fff&length=2&font-size=0.4" alt="TypeScript" width="40" />
+<img src = https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1582px-CSS3_and_HTML5_logos_and_wordmarks.svg.png alt="HTML/CSS" width="60" align="left"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" align="left" />
+<img src = "https://ui-avatars.com/api/?name=TOMMY+SHELBY&size=500&background=1f4182&color=fff&length=2&font-size=0.4" alt="TypeScript" width="40" align="left" />
 <img src = "https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" alt="Node.js" width="40" />
 
 ---
