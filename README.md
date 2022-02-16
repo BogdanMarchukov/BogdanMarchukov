@@ -16,6 +16,11 @@
     - React.js applications
     - Rest API, Node.js applications
 
+### Connect with me:
+<img  alt="phone" width="22px" src="https://i.pinimg.com/originals/74/fe/f2/74fef23e2e02b874f883b8fbd3847cc8.png" />  +7928-45-35-832
+<img  alt="phone" width="22px" src="https://avatars.mds.yandex.net/i?id=561fcc9e15a6234ec3ac7ab991e21a40-5869446-images-thumbs&n=13" />  marchukovb@gmail.com
+
+
 ### Languages:
 <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1582px-CSS3_and_HTML5_logos_and_wordmarks.svg.png alt="HTML/CSS" width="60" align="left"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" align="left" />
