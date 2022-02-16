@@ -3,7 +3,7 @@
 
 
 
-## I am a JavaScript developer
+## I am a JavaScript developer (Junior)
 
 ---
 
