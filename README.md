@@ -3,18 +3,19 @@
 
 
 
-## I am a JavaScript developer (Junior)
+## I am a JavaScript developer (FullStack)
 
 ---
 
 - 👍 I love learning new technologies
-- 🧑‍🎓 Now I'm actively learning how to work with JavaScript infrastructure
-- 👌 the main direction is FrontEnd
-- 👉 I also have basic knowledge of Node.js
+- 🧑‍🎓 Always looking for interesting information
+- 👌 I am currently working as a back-end developer.
+- 👉 There are various pet-rojects on my github.
 - 🔭 Current projects:
     - Next.js applications
     - React.js applications
     - Rest API, Node.js applications
+    - Nest.js application
 
 ### Connect with me:
 <img  alt="phone" width="22px" src="https://i.pinimg.com/originals/74/fe/f2/74fef23e2e02b874f883b8fbd3847cc8.png" />  +7928-45-35-832
