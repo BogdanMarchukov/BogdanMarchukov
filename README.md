@@ -27,6 +27,7 @@
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" align="left" />
 <img src = "https://ui-avatars.com/api/?name=TOMMY+SHELBY&size=500&background=1f4182&color=fff&length=2&font-size=0.4" alt="TypeScript" width="40" align="left" />
 <img src = "https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" alt="Node.js" width="40" />
+<img src = "https://info-comp.ru/wp-content/uploads/images/stories/kartinki2/What_is_SQL_1.jpg" alt="SQL" width="40" />
 
 ---
 
@@ -40,7 +41,11 @@
 - <img src = "https://secureservercdn.net/198.71.233.138/bnp.ddd.myftpupload.com/wp-content/uploads/2019/11/expressjs-768x432.jpg" alt="Express.js" width="25" align="center" /> Express.js
 
 - <img src = "https://logowiki.net/uploads/logo/n/next-js.svg" alt="Next.js" width="25" align="center" /> Next.js
+- <img src = "https://miro.medium.com/max/1000/1*suXzT3k1lYrtR91XRDN7gA.png" alt="Koa.js" width="25" align="center" /> Koa.js
+- <img src = "https://docs.nestjs.com/assets/logo-small.svg" alt="Nest.js" width="25" align="center" /> Nest.js
+### Databases
 - <img src = "https://yt3.ggpht.com/ytc/AKedOLR1ULhkE1KlBnOZi9RLmi2y0zskVvjom1YWwA8S=s900-c-k-c0x00ffffff-no-rj" alt="mongoDB" width="25" align="center" /> mongoDB
+- <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="Postgresql" width="25" align="center" /> mongoDB
 ---
 <details>
   <summary>⚡ Statistics:</summary>
