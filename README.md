@@ -3,7 +3,7 @@
 
 
 ### Connect with me:
-phone: +7-928-45-35-832
+phone: +7-928-45-35-832 <br/>
 email: marchukovb@gmail.com
 telegram:  bo87i
 
