@@ -18,12 +18,6 @@ telegram:  bo87i <br/>
 ---
 
 ### Frameworks:
-#### FrontEnd:
-- <img src = "https://www.phpro.be/media/440/download/react%404x.png?v=2" alt="React.js" width="25" align="center" /> React.js
-
-- <img src = "https://logowiki.net/uploads/logo/n/next-js.svg" alt="Next.js" width="25" align="center" /> Next.js
-
-#### BackEnd:
  ##### Node js
 - <img src = "https://polyakovdmitriy.ru/wp-content/uploads/2019/10/Express.JS-%E2%80%93-An-Ideal-Node.JS-Framework-to-develop-Enterprise-Web-Applications.jpg" alt="Express.js" width="25" align="center" /> Express.js
 - <img src = "https://logowiki.net/uploads/logo/n/next-js.svg" alt="Next.js" width="25" align="center" /> Next.js
