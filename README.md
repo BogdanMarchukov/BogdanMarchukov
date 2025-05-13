@@ -12,7 +12,7 @@ telegram:  bo87i <br/>
 <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1582px-CSS3_and_HTML5_logos_and_wordmarks.svg.png alt="HTML/CSS" width="60" align="left"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" align="left" />
 <img src = "https://ui-avatars.com/api/?name=TOMMY+SHELBY&size=500&background=1f4182&color=fff&length=2&font-size=0.4" alt="TypeScript" width="40" align="left" />
-<img src = "https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" alt="Node.js" width="40" />
+<img src = "[https://ui-avatars.com/api/?name=TOMMY+SHELBY&size=500&background=1f4182&color=fff&length=2&font-size=0.4](https://ya.ru/images/search?from=tabbar&img_url=http%3A%2F%2Fuser-images.githubusercontent.com%2F38958118%2F113206919-0a197400-923e-11eb-9fa0-6aea7676c1be.png&lr=35&p=1&pos=19&rpt=simage&text=rust%20language%20logo)" alt="RUST" width="40" align="left" />
 <img src = "https://info-comp.ru/wp-content/uploads/images/stories/kartinki2/What_is_SQL_1.jpg" alt="SQL" width="60" />
 
 ---
