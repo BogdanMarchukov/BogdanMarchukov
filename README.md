@@ -9,9 +9,9 @@ telegram:  bo87i <br/>
 
 
 ### Languages:
-<img src = https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1582px-CSS3_and_HTML5_logos_and_wordmarks.svg.png alt="HTML/CSS" width="60" align="left"/> <br/>
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" align="left"/> <br/>
-<img src = "https://ui-avatars.com/api/?name=TOMMY+SHELBY&size=500&background=1f4182&color=fff&length=2&font-size=0.4" alt="TypeScript" width="40" align="left"/> <br/>
+<img src = https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1582px-CSS3_and_HTML5_logos_and_wordmarks.svg.png alt="HTML/CSS" width="60"/> <br/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40"/> <br/>
+<img src = "https://ui-avatars.com/api/?name=TOMMY+SHELBY&size=500&background=1f4182&color=fff&length=2&font-size=0.4" alt="TypeScript" width="40"/> <br/>
 <img src = "https://avatars.mds.yandex.net/i?id=761ddc031fcf3744a0f2893df8f03995f838ccfd-4055835-images-thumbs&n=13" alt="RUST" width="40"/> <br/>
 <img src = "https://info-comp.ru/wp-content/uploads/images/stories/kartinki2/What_is_SQL_1.jpg" alt="SQL" width="60" />
 
