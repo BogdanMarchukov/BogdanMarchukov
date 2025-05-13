@@ -3,8 +3,9 @@
 
 
 ### Connect with me:
-<img  alt="phone" width="22px" src="https://i.pinimg.com/originals/74/fe/f2/74fef23e2e02b874f883b8fbd3847cc8.png" />  +7-928-45-35-832
-<img  alt="phone" width="22px" src="https://avatars.mds.yandex.net/i?id=561fcc9e15a6234ec3ac7ab991e21a40-5869446-images-thumbs&n=13" />  marchukovb@gmail.com
+phone: +7-928-45-35-832
+email: marchukovb@gmail.com
+telegram:  bo87i
 
 
 ### Languages:
