@@ -24,11 +24,13 @@ telegram:  bo87i <br/>
 - <img src = "https://logowiki.net/uploads/logo/n/next-js.svg" alt="Next.js" width="25" align="center" /> Next.js
 
 #### BackEnd:
+ ##### Node js
 - <img src = "https://polyakovdmitriy.ru/wp-content/uploads/2019/10/Express.JS-%E2%80%93-An-Ideal-Node.JS-Framework-to-develop-Enterprise-Web-Applications.jpg" alt="Express.js" width="25" align="center" /> Express.js
-
 - <img src = "https://logowiki.net/uploads/logo/n/next-js.svg" alt="Next.js" width="25" align="center" /> Next.js
 - <img src = "https://miro.medium.com/max/1000/1*suXzT3k1lYrtR91XRDN7gA.png" alt="Koa.js" width="25" align="center" /> Koa.js
 - <img src = "https://docs.nestjs.com/assets/logo-small.svg" alt="Nest.js" width="25" align="center" /> Nest.js
+##### Rust
+- <img src = "https://actix.rs/img/logo.png" width="25" align="center" /> ActixWeb
 ### Databases
 - <img src = "https://yt3.ggpht.com/ytc/AKedOLR1ULhkE1KlBnOZi9RLmi2y0zskVvjom1YWwA8S=s900-c-k-c0x00ffffff-no-rj" alt="mongoDB" width="25" align="center" /> mongoDB
 - <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="Postgresql" width="25" align="center" /> Postgresql
