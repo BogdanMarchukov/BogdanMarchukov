@@ -28,6 +28,7 @@ telegram:  bo87i <br/>
 ### Databases
 - <img src = "https://yt3.ggpht.com/ytc/AKedOLR1ULhkE1KlBnOZi9RLmi2y0zskVvjom1YWwA8S=s900-c-k-c0x00ffffff-no-rj" alt="mongoDB" width="25" align="center" /> mongoDB
 - <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="Postgresql" width="25" align="center" /> Postgresql
+- <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1bc2x7VDmM_cMn_4IWKfN1HIL9amTbcKFA&s" alt="Postgresql" width="25" align="center" /> Redis
 ---
 <details>
   <summary>⚡ Statistics:</summary>
