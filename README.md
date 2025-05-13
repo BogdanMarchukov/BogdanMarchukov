@@ -2,21 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=BogdanMarchukov)
 
 
-
-## I am a JavaScript developer (FullStack)
-
----
-
-- 👍 I love learning new technologies
-- 🧑‍🎓 Always looking for interesting information
-- 👌 I am currently working as a back-end developer.
-- 👉 There are various pet-rojects on my github.
-- 🔭 Current projects:
-    - Next.js applications
-    - React.js applications
-    - Rest API, Node.js applications
-    - Nest.js application
-
 ### Connect with me:
 <img  alt="phone" width="22px" src="https://i.pinimg.com/originals/74/fe/f2/74fef23e2e02b874f883b8fbd3847cc8.png" />  +7928-45-35-832
 <img  alt="phone" width="22px" src="https://avatars.mds.yandex.net/i?id=561fcc9e15a6234ec3ac7ab991e21a40-5869446-images-thumbs&n=13" />  marchukovb@gmail.com
